@@ -1,4 +1,4 @@
-# Web Starterkit
+# Monorepo Starterkit
 
 A production-grade pnpm monorepo starter kit with a NestJS API, React Router web app, and a shared TypeScript interface package.
 
